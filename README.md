@@ -47,3 +47,19 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 **Tailwind CSS**: Tailwind CSS is used for styling the components, providing a clean and modern look to the application
 
 **Chart.js**: Chart.js is utilized for creating interactive and customizable weather forecast charts, enhancing the visualization of weather data.
+
+## Issues and Troubleshooting:
+**Common Issue: Server Busy**
+
+Users may encounter the following error when fetching weather data from the API:
+
+This error occurs when the server is experiencing a high volume of requests, resulting in delays or failures in fetching weather data. It may happen during peak usage hours or due to technical issues on the server side.
+
+#### **Possible Solutions**
+
+1. **Retry Later:** Users can try fetching weather data again after some time when the server load is expected to decrease.
+2. **Contact Support:** If the error persists or is affecting multiple users, users can contact the support team responsible for the weather API to report the issue and seek assistance.
+
+## Contact Information:
+
+You can further contact me by mailing [mail](mailto:rameshrahul0004@gmail.com)
