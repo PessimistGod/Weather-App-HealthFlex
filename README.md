@@ -49,6 +49,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 **Chart.js**: Chart.js is utilized for creating interactive and customizable weather forecast charts, enhancing the visualization of weather data.
 
 ## Issues and Troubleshooting:
+`User must click on search icon or location icon in order to fetch`
 **Common Issue: Server Busy**
 
 Users may encounter the following error when fetching weather data from the API:
