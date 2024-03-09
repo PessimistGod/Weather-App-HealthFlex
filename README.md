@@ -5,7 +5,10 @@
 Weather App Link **:** **[Click Here](https://weather-live-app.vercel.app)**
 
 
-## Update File
+## Assignment Overview:
+This project aims to provide users with both real-time weather updates and weather forecasts. It offers a seamless experience for users to check the current weather conditions and plan ahead by viewing the weather forecast
+
+## Configuration:
 
 In the project directory or Inside frontend folder:
 
@@ -13,7 +16,7 @@ In the project directory or Inside frontend folder:
 
 Update your .env file with `REACT_APP_WEATHER_KEY=YOUR_API_KEY`.
 
-## Available Scripts
+## How to Run the Application:
 
 In the project directory, you can run:
 
@@ -34,22 +37,13 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Technologies Used:
+**React**: The project is built using React, a popular JavaScript library for building user interfaces.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Axios**: Axios is used for making HTTP requests to fetch weather data from the Tomorrow.io API.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**React Lottie**: React Lottie is utilized for displaying animated warning icons to indicate errors.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Tailwind CSS**: Tailwind CSS is used for styling the components, providing a clean and modern look to the application
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Chart.js**: Chart.js is utilized for creating interactive and customizable weather forecast charts, enhancing the visualization of weather data.
